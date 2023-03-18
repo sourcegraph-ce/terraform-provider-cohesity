@@ -2,7 +2,7 @@ package cohesity
 
 import (
 	"errors"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 	"time"
 
