@@ -3,7 +3,7 @@ package cohesity
 import (
 	"errors"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"testing"
 
 	"github.com/cohesity/management-sdk-go/models"
